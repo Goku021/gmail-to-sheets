@@ -187,12 +187,10 @@ OAuth consent screen
 Screen recording explaining execution flow
 
 <img width="1496" height="827" alt="Screenshot 2026-01-14 115615" src="https://github.com/user-attachments/assets/3d081078-7cdf-42b9-885e-14f4f4d4fa0a" />
-
 <img width="1471" height="818" alt="Screenshot 2026-01-14 120128" src="https://github.com/user-attachments/assets/dbda0f71-19d9-4252-87b4-72202f2a1623" />
 <img width="1799" height="730" alt="Screenshot 2026-01-14 120049" src="https://github.com/user-attachments/assets/22559716-9aa3-4ef3-a4e2-ada35f147c0a" />
 <img width="1798" height="855" alt="Screenshot 2026-01-14 115726" src="https://github.com/user-attachments/assets/194b6c58-0d07-4894-b4c8-be55ba1dedc4" />
 <img width="1771" height="736" alt="Screenshot 2026-01-14 115640" src="https://github.com/user-attachments/assets/7b247aac-b4f2-4733-b4c5-a17914017735" />
-<img width="1496" height="827" alt="Screenshot 2026-01-14 115615" src="https://github.com/user-attachments/assets/1b0194d6-f564-43ff-afab-120059a86d71" />
 
 🧪 What Happens on Re-run?
 
